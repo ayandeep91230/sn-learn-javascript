@@ -18,4 +18,4 @@ Solutions to lab exercises can also be found in the *Lab Solutions* folder.
 * [ServiceNow Technical Best Practices](https://developer.servicenow.com/dev.do#!/guides/quebec/now-platform/tpb-guide/scripting_technical_best_practices)
 * [TechNow webinars](https://devlink.sn/technow)
 * [ServiceNow Community](https://community.servicenow.com)
-* [Stephen Bell's Scripting Best Practices Videos](https://www.youtube.com/user/ServiceNowCommunity/search?query=scripting+best+practices)
+* [Stephen Bell's Scripting Best Practices Videos](https://www.youtube.com/user/ServiceNowCommunity/search?query=scripting+best)
